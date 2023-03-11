@@ -284,5 +284,4 @@ cv.destroyAllWindows()
 Fomula **within** the line: $E=mc^2$
 
 Fomula **_between_** the lines:
-
-\[ e^{iπ} + 1 = 0 \]
+$ e^{iπ} + 1 = 0 $
