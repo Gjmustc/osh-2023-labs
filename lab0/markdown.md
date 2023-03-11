@@ -282,4 +282,5 @@ cv.destroyAllWindows()
 ## Task3
 
 $E=mc^2$
+
 $e^{iπ} + 1 = 0$
